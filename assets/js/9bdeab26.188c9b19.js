@@ -1,0 +1,1 @@
+(self.webpackChunkeatrisno_github_io=self.webpackChunkeatrisno_github_io||[]).push([[988],{9736:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"intro","name":"intro","count":1,"permalink":"/blog/tags/intro"}')}}]);
